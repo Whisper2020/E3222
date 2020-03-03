@@ -9,4 +9,4 @@ def sent(name, str):
     sents.write(strings.encode())
     sents.close()
 
-sent("COM3", "How are you?")
+sent("COM1", "How are you?")
